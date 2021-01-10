@@ -1,0 +1,140 @@
+{
+  "excel": {
+    "data": {
+      "propertyData": {
+        "sheet1": [
+          {
+            "unit": "Unit",
+            "number1": 10,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 01",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "South Australia",
+            "streettype": "Street"
+          },
+          {
+            "unit": "Suite",
+            "number1": 20,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 02",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "Tasmania",
+            "streettype": "Road"
+          },
+          {
+            "unit": "PO Box",
+            "number1": 30,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 03",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "Victoria",
+            "streettype": "Drive"
+          },
+          {
+            "unit": "Lot",
+            "number1": 40,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 04",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "Western Australia",
+            "streettype": "Lane"
+          },
+          {
+            "unit": "Unit",
+            "number1": 50,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 05",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "Australian Capital Territory",
+            "streettype": "Quay"
+          },
+          {
+            "unit": "Suite",
+            "number1": 60,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 06",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "New South Wales",
+            "streettype": "Place"
+          },
+          {
+            "unit": "PO Box",
+            "number1": 70,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 07",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "Northern Territory",
+            "streettype": "Highway"
+          },
+          {
+            "unit": "Lot",
+            "number1": 80,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 08",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "South Australia",
+            "streettype": "Parade"
+          },
+          {
+            "unit": "Unit",
+            "number1": 90,
+            "number2": 20,
+            "number3": 40,
+            "property_name": "Cypress automation property 09",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "Tasmania",
+            "streettype": "Way"
+          },
+          {
+            "unit": "Suite",
+            "number1": 100,
+            "number2": 20,
+            "number3": 50,
+            "property_name": "Cypress automation property 10",
+            "suburb": "Cypress suburb",
+            "postcode": 5008,
+            "owner_email": "h.milroyperera+press02@gmail.com",
+            "owner_name1": "Test Auto Owner",
+            "region": "Victoria",
+            "streettype": "Crescent"
+          }
+        ]
+      }
+    }
+  }
+}

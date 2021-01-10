@@ -1,0 +1,20 @@
+{
+  "name": "data_load",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "load-data": "rm -rf ./data/data.json && node node_modules/excel-data-loader/index.js excel-folder-path=./data json-file-path=./cypress/fixtures/data.json",
+    "start": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.2.1"
+  },
+  "dependencies": {
+    "excel-data-loader": "github:hmilroy/excel-data-loader",
+    "xlsx": "^0.16.9"
+  }
+}
